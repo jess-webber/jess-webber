@@ -2,8 +2,9 @@
 - 👀 I’m interested in building consumer products and apps. 
 - 🌱 I’m currently learning javascript and react. 
 - 💞️ I’m looking to collaborate on anything cool!
-- 🔧 I recently built this minimalist calculator and this to do list: https://jess-webber.github.io/to-do-list/ 
-- And this minimalist calculator: <https://jess-webber.github.io/minimalist-calculator/>. 
+**Some things I've built: **
+- 🔧 To do list: https://jess-webber.github.io/to-do-list/ 
+-  🧮 Minimalist calculator: <https://jess-webber.github.io/minimalist-calculator/>. 
 - 📫 Reach me at jess_webber@outlook.com
 
 <!---
