@@ -4,9 +4,9 @@
 💞️ I’m looking to collaborate on anything cool! <br>
 
 <strong>Some cool things I've built:</strong>
-<br>🔧 To do list - React: https://jess-webber.github.io/to-do-list/ 
-<br>🧮 Minimalist calculator - React: <https://jess-webber.github.io/minimalist-calculator/>
-<br>📊 Bar Chart of US GDP - d3: https://codepen.io/jesswebber/full/qBrEGNr 
+<br>🔧 To do list | React: https://jess-webber.github.io/to-do-list/ 
+<br>🧮 Minimalist calculator | React: <https://jess-webber.github.io/minimalist-calculator/>
+<br>📊 Bar Chart of US GDP | d3: https://codepen.io/jesswebber/full/qBrEGNr 
 
 📫 Reach me at jess_webber@outlook.com
 
