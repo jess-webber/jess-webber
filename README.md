@@ -4,9 +4,13 @@
 💞️ I’m looking to collaborate on anything cool! <br>
 
 <strong>Some cool things I've built:</strong>
-<br>🔧 To do list | React: https://jess-webber.github.io/to-do-list/ 
-<br>🧮 Minimalist calculator | React: <https://jess-webber.github.io/minimalist-calculator/>
-<br>📊 Bar Chart of US GDP | d3: https://codepen.io/jesswebber/full/qBrEGNr 
+
+Project | Description | Stack
+------- |-------------|------
+🔧 [To-do List](https://jess-webber.github.io/to-do-list/)  | A to-do list to keep on top of tasks, including a reminder function | Javascript, CSS, React
+🧮 [Calculator](https://jess-webber.github.io/minimalist-calculator/) | A calculator with a simple, minimalist design | Javascript, CSS, React
+📊 [US GDP Bar Chart](https://codepen.io/jesswebber/full/qBrEGNr) | A graph of US GDP from 1947 to present | Javascript, CSS, d3
+
 
 📫 Reach me at jess_webber@outlook.com
 
